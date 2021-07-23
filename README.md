@@ -1,1 +1,2 @@
-# Double_Range_Slider
+# Double Range Slider
+Estudo de javascript
